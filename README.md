@@ -14,4 +14,4 @@ The exercise is contained within a [Jupyter Notebook](http://jupyter.org).  Once
 
      jupyter-notebook deep_learning_exercise.ipynb
 
-Then point your browser [to the local notebook server](http://localhost:8888/notebooks/deep_learning_exercise.ipynb).
+Then point your browser [to the local notebook server](http://localhost:8888/notebooks/deep_learning_exercise.ipynb). 
